@@ -11,7 +11,12 @@ $Packages = 'pycharm',
             'slack',
             'steam-client',
             'origin',
-            'winrar'
+            'winrar',
+            'vlc'.
+            'zoom'.
+            'battle.net',
+            'dbeaver',
+            'discord'
 
  
 If(Test-Path -Path "$env:ProgramData\Chocolatey") {
