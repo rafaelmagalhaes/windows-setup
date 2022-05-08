@@ -12,8 +12,8 @@ $Packages = 'pycharm',
             'steam-client',
             'origin',
             'winrar',
-            'vlc'.
-            'zoom'.
+            'vlc',
+            'zoom',
             'battle.net',
             'dbeaver',
             'discord'
