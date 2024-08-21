@@ -7,16 +7,14 @@ $Packages = 'webstorm',
             'logitechgaming',
             'logitech-options',
             'whatsapp',
-            'signal',
             'slack',
             'steam-client',
-            'origin',
-            'winrar',
             'vlc',
-            'zoom',
-            'battle.net',
             'dbeaver',
-            'discord'
+            'discord',
+            'powertoys',
+            'jetbrainstoolbox',
+            'postman'
 
  
 If(Test-Path -Path "$env:ProgramData\Chocolatey") {
