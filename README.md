@@ -17,7 +17,7 @@ for arm architecture use the `Winget` because this will install the correct pack
 3) Run `powershell -executionpolicy bypass -File $FULL_PATH\winget-setup.ps1`
 
 
-### list of packages
+### find packages
 
 https://winget.run/
 
